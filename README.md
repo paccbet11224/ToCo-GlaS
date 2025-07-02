@@ -14,7 +14,7 @@
     │       ToCo_GlaS 数据集结构说明与使用指南.md
     │       ToCo数据处理流.md
     │
-    ├───hsn_data
+    ├───hsn_data (这个文件夹放在 .gitignore 里了，由于数据集比较大不好传)
     └───ToCo_GlaS_dataset
 ```
 > 其中 `hsn_data` 是我们从别的地方搞下来的GlaS数据集。\

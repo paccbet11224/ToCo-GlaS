@@ -17,6 +17,6 @@
     ├───hsn_data
     └───ToCo_GlaS_dataset
 ```
-> 其中 `hsn_data` 是我们从别的地方搞下来的GlaS数据集。
-> `requirements.txt`随时更新。
-> 使用的py版本是3.9。
+> 其中 `hsn_data` 是我们从别的地方搞下来的GlaS数据集。\
+> `requirements.txt`随时更新。\
+> 使用的py版本是3.9。\
